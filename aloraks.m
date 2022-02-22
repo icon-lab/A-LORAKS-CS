@@ -1,4 +1,4 @@
-function recon_loraks = aloraks(kData,kMask,R,stdev)
+function recon_loraks = aLoraks(kData,kMask,R,stdev)
 % ALORAKS -- A-LORAKS: Parameter free LORAKS reconstruction.
 %
 % recon_loraks = aloraks(kData,kMask,R)
