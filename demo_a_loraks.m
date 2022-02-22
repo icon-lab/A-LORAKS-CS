@@ -1,4 +1,4 @@
-%% A-LORAKS-CS Demo 
+%% A-LORAKS-CS Demo
 % Automated Parameter Selection for Accelerated MRI Reconstruction via
 % Low-Rank Modeling of Local k-Space Neighborhoods (A-LORAKS-CS)
 %
